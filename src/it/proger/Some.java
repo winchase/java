@@ -1,4 +1,4 @@
-package it.proger;s
+package it.proger;
 
 public class Some {
 }
